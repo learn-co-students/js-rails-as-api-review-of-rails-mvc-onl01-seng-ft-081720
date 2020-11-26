@@ -1,5 +1,7 @@
 {
   "name": "bird_watcher",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "npm": "^6.14.9"
+  }
 }
